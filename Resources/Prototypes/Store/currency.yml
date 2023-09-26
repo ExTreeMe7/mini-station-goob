@@ -28,6 +28,9 @@
 - type: currency
   id: WizCoin
   displayName: store-currency-display-wizcoin
+
+  id: StolenMutationPoint
+  displayName: store-currency-display-stolen-mutation-points
   canWithdraw: false
 
 #debug

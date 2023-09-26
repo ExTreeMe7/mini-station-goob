@@ -129,3 +129,7 @@ chat-speech-verb-wawa-1 = напевает
 chat-speech-verb-wawa-2 = утверждает
 chat-speech-verb-wawa-3 = заявляет
 chat-speech-verb-wawa-4 = размышляет
+
+chat-manager-send-collective-mind-chat-wrap-message = {$channel} коллективный разум: {$message}
+chat-manager-send-collective-mind-chat-wrap-message-admin = {$source} ({$channel} коллективный разум): {$message}
+chat-manager-collective-mind-channel-name = коллективный разум

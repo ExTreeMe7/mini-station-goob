@@ -58,6 +58,12 @@ roles-antag-nuclear-operative-objective = Find the nuke disk and blow up the sta
 roles-antag-subverted-silicon-name = Subverted silicon
 roles-antag-subverted-silicon-objective = Follow your new laws and do bad unto the station.
 
+roles-antag-flesh-cultist-name = Flesh Cultist
+roles-antag-flesh-cultist-objective = Stay in the shadows, preparing the demise of the station.
+
+roles-antag-flesh-cultist-leader-name = Flesh Cult Leader
+roles-antag-flesh-cultist-leader-objective = Manifest the cult's goals in reality. Ensure the survival of all cult members.
+
 roles-antag-space-ninja-name = Space Ninja
 roles-antag-space-ninja-objective = Use your stealth to sabotage the station, nom on electrical wires.
 

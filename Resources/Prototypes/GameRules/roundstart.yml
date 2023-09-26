@@ -443,6 +443,14 @@
       - MindRoleHeadRevolutionary
 
 - type: entity
+  id: FleshCult
+  parent: BaseGameRule
+  noSpawn: true
+  components:
+    - type: FleshCultRule
+      faction: Flesh
+
+- type: entity
   id: Sandbox
   parent: BaseGameRule
   components:

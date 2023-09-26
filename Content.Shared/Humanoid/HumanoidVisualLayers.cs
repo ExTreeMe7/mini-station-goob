@@ -59,6 +59,7 @@ namespace Content.Shared.Humanoid
         LFoot,
         Handcuffs,
         StencilMask,
+        LegsMask,
         Ensnare,
         Fire,
 
