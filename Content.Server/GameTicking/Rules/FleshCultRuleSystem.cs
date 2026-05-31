@@ -18,7 +18,7 @@ using Content.Server.Store.Components;
 using Content.Server.Store.Systems;
 using Content.Shared.Backmen.Abilities.Psionics;
 using Content.Shared.Backmen.CCVar;
-using Content.Shared.FixedPoint;
+using Content.Goobstation.Maths.FixedPoint;
 using Content.Shared.Backmen.Flesh;
 using Content.Shared.Humanoid;
 using Content.Shared.Mind;

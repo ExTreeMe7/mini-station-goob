@@ -22,7 +22,7 @@ using Content.Shared.Cuffs.Components;
 using Content.Shared.Damage;
 using Content.Shared.DoAfter;
 using Content.Shared.Electrocution;
-using Content.Shared.FixedPoint;
+using Content.Goobstation.Maths.FixedPoint;
 using Content.Shared.Backmen.Flesh;
 using Content.Shared.Fluids.Components;
 using Content.Shared.Hands.Components;
@@ -43,6 +43,7 @@ using Robust.Shared.Physics;
 using Robust.Shared.Physics.Systems;
 using Robust.Shared.Player;
 using Robust.Shared.Prototypes;
+using Robust.Shared.Audio.Systems;
 
 namespace Content.Server.Backmen.Flesh;
 

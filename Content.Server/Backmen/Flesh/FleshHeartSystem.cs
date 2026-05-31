@@ -33,6 +33,7 @@ using Robust.Shared.Physics.Systems;
 using Robust.Shared.Player;
 using Robust.Shared.Prototypes;
 using Robust.Shared.Random;
+using Robust.Shared.Audio.Systems;
 
 namespace Content.Server.Backmen.Flesh
 {

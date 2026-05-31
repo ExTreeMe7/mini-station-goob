@@ -18,6 +18,7 @@ using Content.Shared.Popups;
 using Robust.Shared.Map;
 using Robust.Shared.Physics.Components;
 using Robust.Shared.Player;
+using Robust.Shared.Audio.Systems;
 
 namespace Content.Server.Backmen.Flesh;
 

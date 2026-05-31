@@ -1,6 +1,6 @@
 ﻿using Content.Shared.Chemistry.Components;
 using Content.Shared.Chemistry.Reagent;
-using Content.Shared.FixedPoint;
+using Content.Goobstation.Maths.FixedPoint;
 using Content.Shared.Maps;
 using Content.Shared.Store;
 using Robust.Shared.Audio;

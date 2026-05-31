@@ -21,6 +21,7 @@ using Content.Shared.Throwing;
 using Content.Shared.Weapons.Melee.Events;
 using Robust.Shared.Player;
 using Robust.Shared.Random;
+using Robust.Shared.Audio.Systems;
 
 namespace Content.Server.Backmen.Flesh;
 

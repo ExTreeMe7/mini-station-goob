@@ -16,6 +16,7 @@ using Robust.Shared.Audio;
 using Robust.Shared.Containers;
 using Robust.Shared.Player;
 using Robust.Shared.Prototypes;
+using Robust.Shared.Audio.Systems;
 
 namespace Content.Server.Backmen.Flesh
 {
